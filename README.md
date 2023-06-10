@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttranchese&label=Profile%20views&color=0e75b6&style=flat" alt="ttranchese" /> </p>
 
-- 🔭 I’m currently working on [OpenMMO](https://github.com/TTranchese/ProjectTeam1)
+- 🔭 I’m currently working on [bf-api](https://github.com/TTranchese/bf-api)
 
 - 🌱 I’m currently learning **Java, SpringBoot and React**
 
