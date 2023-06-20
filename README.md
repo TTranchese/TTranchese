@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommaso Tranchese</h1>
 <h3 align="center">An aspiring backend developer from Italy</h3>
 
-- 🔭 I’m currently working on [bf-api](https://github.com/TTranchese/bf-api)
-
-- 🌱 I’m currently learning **Java, SpringBoot and React**
+- 🌱 I’m currently learning **Java, SpringBoot, React, C# and .NET**
 
 - 📫 How to reach me **tommaso.tranchese.96@gmail.com**
 
